@@ -1,0 +1,20 @@
+:root{
+    --font-principal: "Montserrat", sans-serif;
+
+    --color-bg-white: #f0f2f5;
+    --color-bg-dark: #121212;
+    --color-bg-form-dark: #1e1e1e;
+    --color-bg-field-dark: #2c2c2c;
+    
+
+    --color-white: #e0e0e0;
+    --color-black: #333;
+    --color-boxshadow: rgba(0, 0, 0, 0.5);
+    --color-border-dark: #444;
+
+
+    --color-font-silver: #555;
+    
+    --button-blue: #007bff;
+    --button-bluedark: #0056b3;
+}

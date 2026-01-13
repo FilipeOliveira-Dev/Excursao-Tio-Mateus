@@ -1,0 +1,40 @@
+@import url(/styles/formulario.css);
+@import url(/styles/variaveis.css);
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: var(--font-principal);
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-color: var(--color-bg-white);
+}
+
+/* Estilos do Modo Escuro */
+body.dark-mode {
+    background-color: var(--color-bg-dark);
+    color: var(--color-white);
+}
+
+body.dark-mode .form {
+    background-color: var(--color-bg-form-dark);
+    box-shadow: 0 4px 6px var(--color-box-shadow);
+}
+
+body.dark-mode .formulario__titulo,
+body.dark-mode label {
+    color: var(--color-white);
+}
+
+body.dark-mode .form-field {
+    background-color: var(--color-bg-field-dark);
+    border: 1px solid var(--color-border-dark);
+    color: var(--color-white);
+}

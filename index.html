@@ -3,8 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/styles/main.css">
     <title>Excursão do Tio Mateus</title>
-    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <button id="theme-toggle" class="theme-toggle">Modo Escuro</button>
@@ -12,14 +15,14 @@
     <h1 class="formulario__titulo">Excursão do Tio Mateus</h1>
     
     <form class="form js-form">
-    <label for="name">
-        Nome
-        <input class="form-field js-field" id="name" maxlength="120" name="name" required type="text">
+    <label for="name">Nome
+        <input class="form-field js-field" type="text" id="name" name="name" minlength="3" maxlength="120" pattern="^[A-Za-zÀ-ÿ]+(\s[A-Za-zÀ-ÿ]+)+$" placeholder="Digite o Nome Completo" required>
     </label>
-    <label for="birth-date">
-        Data de Nascimento
+
+    <label for="birth-date">Data de Nascimento
         <input class="form-field js-field" id="birth-date" name="birth-date" required type="date">
     </label>
+    
     <button type="submit" class="button__save">Salvar</button>
 </form>
 

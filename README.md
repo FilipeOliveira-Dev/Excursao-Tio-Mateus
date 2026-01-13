@@ -24,7 +24,8 @@
 ## 📌 Status: Em Andamento
 
 <li> Day 01 - Criando os Elementos Iniciais do Formulário ✅
-<li> Day 02 - Adicionando Validações ao Formulário
+<li> Day 02 - Adicionando Validações ao Formulário ✅
+<li> <i>Exercício Extra</i> - Mensagem de Validação usando <setCustomValidity>
 <li> Day 03 - Salvando os Dados em Uma Tabela
 <li> Day 04 - Editando os Dados Armazenados
 <li> Day 05 - Remoção de Pessoas
