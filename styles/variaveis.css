@@ -12,9 +12,9 @@
     --color-boxshadow: rgba(0, 0, 0, 0.5);
     --color-border-dark: #444;
 
-
     --color-font-silver: #555;
     
     --button-blue: #007bff;
     --button-bluedark: #0056b3;
+    --button-red: rgb(222, 3, 3);
 }

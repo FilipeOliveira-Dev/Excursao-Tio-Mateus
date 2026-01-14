@@ -1,5 +1,6 @@
 @import url(/styles/formulario.css);
 @import url(/styles/variaveis.css);
+@import url(/styles/tabela.css);
 
 * {
     box-sizing: border-box;
@@ -37,4 +38,16 @@ body.dark-mode .form-field {
     background-color: var(--color-bg-field-dark);
     border: 1px solid var(--color-border-dark);
     color: var(--color-white);
+}
+
+body.dark-mode .btn-item{
+    background-color: var(--color-bg-dark);
+}
+
+body.dark-mode .fa-trash-can{
+    color: var(--button-blue);
+}
+
+body.dark-mode .fa-pen-to-square{
+    color: var(--button-red);
 }

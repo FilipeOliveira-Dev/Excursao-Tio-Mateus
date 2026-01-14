@@ -1,0 +1,44 @@
+#tabela-participantes {
+    margin-top: 4rem;
+    width: 90%;
+    max-width: 800px;
+    border-collapse: collapse;
+}
+
+#tabela-participantes th {
+    border-bottom: 1px solid currentColor;
+    padding: 0.5rem;
+    text-align: left;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+#tabela-participantes td {
+    border-bottom: 1px solid currentColor;
+    padding: 0.5rem;
+    text-align: left;
+    font-size: 16px;
+}
+
+.btn-item{
+    border: none;
+    cursor: pointer;
+}
+
+.fa-solid:hover{
+    opacity: 80%;
+    transition: 0.3s;
+}
+
+.fa-solid{
+    margin-left: 12px;
+    font-size: 20px;
+}
+
+.fa-trash-can{
+    color: var(--button-red);
+}
+
+.fa-pen-to-square{
+    color: var(--button-blue);
+}
