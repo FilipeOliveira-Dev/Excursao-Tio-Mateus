@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-status:-em-andamento">Status do Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-status:-finalizado">Status do Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-desenvolvedor">Desenvolvedor</a>
@@ -21,14 +21,14 @@
 <br>
    <li>Ele consiste em criar uma página de Formulário de Cadastro.
 
-## 📌 Status: Em Andamento
+## 📌 Status: Finalizado
 
 <li> Day 01 - Criando os Elementos Iniciais do Formulário ✅
 <li> Day 02 - Adicionando Validações ao Formulário ✅
 <li> Day 03 - Salvando os Dados em Uma Tabela ✅
 <li> Day 04 - Editando os Dados Armazenados ✅
 <li> Day 05 - Remoção de Pessoas ✅
-<li> Day 06 - Estilização
+<li> Day 06 - Estilização ✅
 <li> Day 07 - Publicando o Sistema
 
 
@@ -39,6 +39,7 @@ Projeto desenvolvido utilizando as seguintes tecnologias:
 <li> HTML
 <li> CSS
 <li> JavaScript
+<li> Gemini
 <br>
 
 ## 🔖  Layout:
