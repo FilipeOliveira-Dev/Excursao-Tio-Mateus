@@ -64,3 +64,15 @@ label {
 .theme-toggle:hover {
     background-color: var(--color-font-silver);
 }
+
+@media (max-width: 360px) {
+    .formulario__titulo {
+        font-size: 22px;
+        margin: 0;
+    }
+
+    .form{
+        margin: 1rem;
+        max-width: 300px;
+    }
+}

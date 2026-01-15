@@ -29,7 +29,9 @@
 <li> Day 04 - Editando os Dados Armazenados ✅
 <li> Day 05 - Remoção de Pessoas ✅
 <li> Day 06 - Estilização ✅
-<li> Day 07 - Publicando o Sistema
+<li> > <i>Exercício Extra</i> - White Mode / Dark Mode ✅
+<li> > <i>Exercício Extra</i> - Responsividade ✅
+<li> Day 07 - Publicando o Sistema ✅
 
 
 ## 🚀 Tecnologias:
@@ -45,11 +47,13 @@ Projeto desenvolvido utilizando as seguintes tecnologias:
 ## 🔖  Layout:
 
 <div align="center">
-<h3>Página completa - Mobile / Tablet / Desktop</h3><br>
+<h3>Página completa - Desktop (White / Dark Mode)</h3><br>
+
+<img width="500" height="654" alt="Excursao do Tio Mateus White Mode" src="/images/Page - White Mode.png" />
+<img width="500" height="653" alt="Excursao do Tio Mateus Dark Mode" src="/images/Page - Dark Mode.png" />
 
 </div>
       
-</div>
 
 ## 👨🏻‍💻 Desenvolvedor:
 

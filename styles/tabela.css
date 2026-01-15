@@ -42,3 +42,9 @@
 .fa-pen-to-square{
     color: var(--button-blue);
 }
+
+@media (max-width: 360px) {
+    #tabela-participantes {
+        margin-top: 0;
+    }
+}
